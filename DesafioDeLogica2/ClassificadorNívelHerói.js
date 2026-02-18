@@ -1,6 +1,6 @@
 let Heroi = "ShaKa"
-let Vitorias = 70
-let Derrotas = 10
+let Vitorias = 60
+let Derrotas = 20
 
 function Rank (Vitorias, Derrotas  ) {
     let xp = Vitorias - Derrotas
